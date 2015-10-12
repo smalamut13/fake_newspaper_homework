@@ -1,0 +1,57 @@
+.main-page {
+	text-align: center;
+	font-size: 40px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #B7D7EA;
+}
+
+.fixed-nav-bar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 9999;
+	height: 50px;
+
+}
+
+/*body {
+	margin: auto 0;
+}*/
+
+#left-column {
+	float: left;
+	width: 35%;
+	padding: 30px;
+	margin: 25px;
+}
+
+.burger{
+	width: 400px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+	position: relative;
+	float: left;
+}
+
+#right-column {
+	float: right;
+	width: 35%;
+	padding: 30px;
+	margin: 25px;
+}
+/*
+.text{
+	margin: 10px;		
+	float: left;
+	clear: right;
+	position: relative;
+}
+*/
+.article {
+	font-family: sans-serif;
+	color: #F52E0A;
+	text-align: center;
+	font-size: 30px;
+}
